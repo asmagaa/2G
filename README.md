@@ -1,2 +1,2 @@
 WIP...
-<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/al.svg" width="100">](translations/README.al.md)</kbd>
+<kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/al.svg" width="10000">](translations/README.al.md)</kbd>
